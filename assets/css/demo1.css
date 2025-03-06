@@ -160,7 +160,7 @@
 
 .ec-slide-1 {
   width: 100%;
-  background-image: url("../images/main-slider-banner/1.jpg");
+  background-image: url("../images/main-slider-banner/1.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -168,7 +168,7 @@
 }
 
 .ec-slide-2 {
-  background-image: url("../images/main-slider-banner/2.jpg");
+  background-image: url("../images/main-slider-banner/2.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -1058,7 +1058,7 @@
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-image: url("../images/offer-image/offer_bg.jpg");
+  background-image: url("../images/offer-image/offer_bg.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;

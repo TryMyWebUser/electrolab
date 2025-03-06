@@ -14473,8 +14473,8 @@ h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     .whatsapp_float {
         width: 40px;
         height: 40px;
-        bottom: 125px;
-        left: 10px;
+        /* bottom: 125px;
+        left: 10px; */
         font-size: 22px;
     }
 }
@@ -16920,7 +16920,7 @@ h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   text-align: left;
 }
 .header-logo img {
-  width: 130px;
+  width: 180px;
 }
 
 /*----  Header Button Actions  ----*/
@@ -18128,7 +18128,7 @@ body.ec-open:before {
   }
   .header-logo {
     text-align: center !important;
-    margin-bottom: 15px;
+    /* margin-bottom: 15px; */
   }
   .header-logo img {
     width: 25%;
@@ -18325,7 +18325,7 @@ button.btn-close.qty_close {
   position: relative;
   display: block;
   overflow: hidden;
-  pointer-events: none;
+  /* pointer-events: none; */
 }
 .ec-product-inner .ec-pro-image .image img {
   z-index: 1;
